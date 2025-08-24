@@ -7,4 +7,4 @@
 
 ## Print da tela da página criada (Curriculum Vitae)
 
-![Imagem-Inspeção-Navegador](tela-navegador.jpeg)
+![Imagem-Inspeção-Navegador](imagem-navegador.png)
