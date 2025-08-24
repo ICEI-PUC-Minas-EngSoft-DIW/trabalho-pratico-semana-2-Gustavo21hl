@@ -1,0 +1,42 @@
+p,
+h1,
+h2,
+h3,
+h4,
+ul,
+li {
+  font-size: 16px;
+  border: 0;
+  padding: 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+  font-size: 36px;
+  font-style: normal;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+h3 {
+  font-size: 25px;
+}
+
+h4 {
+  font-size: 20px;
+}
+
+p,
+li {
+  font-size: 16px;
+}
+
+.tirar_espaco {
+  line-height: 0.1;
+}
+
+img {
+  border-radius: 40px;
+}
