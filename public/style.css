@@ -11,6 +11,11 @@ li {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+body,
+hr {
+  background-color: grey;
+}
+
 h1 {
   font-size: 36px;
   font-style: normal;
@@ -39,4 +44,28 @@ li {
 
 img {
   border-radius: 40px;
+  height: 150px;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+ul {
+  margin: 0;
+  padding: 0 20px;
+  list-style: disc;
+}
+
+.topo {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.habilidades .lista {
+  display: flex;
+  gap: 40px;
 }
